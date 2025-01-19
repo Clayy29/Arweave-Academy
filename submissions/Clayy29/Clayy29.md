@@ -2,11 +2,6 @@
 
 ### Personal information
 
-- github account:
-## Arweave Academy Personal File
-
-### Personal information
-
 - github account:Clayy29
 - Email:fadhlillahsyahir@gmail.com
 - Arweave Address:nAoLwpfWggO6GfmSS5Uazhv9h9bwUEHS_Fgxp68YxZw
